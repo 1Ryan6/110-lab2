@@ -1,3 +1,3 @@
-import {print_guest_names} from './guest-list.ts'
+import { songs, print } from "./music-set.ts"
 
-print_guest_names()
+print(songs);

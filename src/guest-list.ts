@@ -1,4 +1,4 @@
-import { print_list } from "./snacks.ts";
+import { print_list } from "./snacks";
 
 let guest_names = ['Lebron James', 'Jeffrey', 'Alexander Hamilton']
 

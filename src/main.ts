@@ -1,3 +1,3 @@
-import { songs, print } from "./music-set.ts"
+import { songs, print } from "./music-set"
 
 print(songs);

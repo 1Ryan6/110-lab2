@@ -7,3 +7,11 @@ function print_list(l: string[]): void {
 }
 
 print_list(snack_names);
+
+const snacks: Array<string> = ["Doritos", "Gummy Bears"];
+
+function print(arr: Array<string>): void {
+    console.log(arr);
+}
+
+print(snacks);

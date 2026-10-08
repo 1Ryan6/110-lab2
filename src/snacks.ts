@@ -1,4 +1,4 @@
-let snack_names: string[] = ['Goldfish', 'Nacho Fries', 'Chips']
+let snack_names: string[] = ['Goldfish', 'Nacho Fries', 'Chips', "Gummy Bears"]
 
 export function print_list(l: string[]): void {
   for (const i of l) {
@@ -7,11 +7,3 @@ export function print_list(l: string[]): void {
 }
 
 print_list(snack_names);
-
-const snacks: Array<string> = ["Doritos", "Gummy Bears"];
-
-function print(arr: Array<string>): void {
-    console.log(arr);
-}
-
-print(snacks);
